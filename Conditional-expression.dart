@@ -1,8 +1,7 @@
 void main(){
 
 //conditional expression
-
-//condition ? exp1 : exp2
+ */++++++++;l
 //if condition is true, evaluates exp1(and returns its value);
 //otherwise, evalutes and returns the value of exp2
 var a = 2;
