@@ -3,8 +3,7 @@ void main(){
 
     int result =12~/0;
     print("the result is $result");
-  }catch(e,s){
+  }catch(e){
     print("the exception thrown is $e");
-    print("STACK TRACE \n $s");
   }
 }
