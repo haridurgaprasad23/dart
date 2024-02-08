@@ -1,0 +1,32 @@
+void main(){
+  int a=10;
+  int b=20;
+  // int smallerNumber
+  if (a<b)
+  {
+    print("a is small");
+    //smallerNumber=  a
+  }
+  else{
+    print("b is small");
+    //smallerNumber = b
+  }
+  
+  
+  a<b ?     print("$a is small"):    print("$b is small");
+
+  
+  
+  
+  
+  
+  
+  String name = null;
+  String nameTOPrint =name ?? "guste user";
+  print(nameToPrint);
+  
+  
+  
+  
+  
+} 
