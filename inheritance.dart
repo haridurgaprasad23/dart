@@ -5,7 +5,7 @@ suziki.color="black";
 suziki.showroom="Vijayawada";
 
 suziki.tools();
-print("")
+print("");  
 
 
 var tata = Tata();
