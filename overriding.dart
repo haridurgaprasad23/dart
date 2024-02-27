@@ -35,5 +35,6 @@ class Student extends Human{
     // TODO: implement sleep
     super.sleep();
     print('student is sleeping');
+    super.sleep();
   }
 }
