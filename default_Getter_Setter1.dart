@@ -13,7 +13,7 @@ class Student{
 }
 
 class Student2{
-  var name;
+  var name;  
   var percent;
    set percentage(double score){
     percent =(score /600)*100;
